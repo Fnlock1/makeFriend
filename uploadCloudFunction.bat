@@ -1,0 +1,1 @@
+"C:\微信开发工具\微信web开发者工具\cli.bat" cloud functions deploy --e jimei-2gya2yow4c2200d1 --n quickstartFunctions --r --project "E:\接单\单身交友平台" --report_first --report

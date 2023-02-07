@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/me/index",
+    "pages/star/index",
+    "pages/message/index"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "tabBar": {
+    "color": "#BFBFBF",
+    "selectedColor": "#AE80ED",
+    "borderStyle": "white",
+    "list": [
+      {
+      "pagePath": "pages/index/index",
+      "text": "推荐"
+    },
+    {
+      "pagePath": "pages/star/index",
+      "text": "星球"
+    },
+    {
+      "pagePath": "pages/message/index",
+      "text": "消息"
+    },
+    {
+      "pagePath": "pages/me/index",
+      "text": "我的"
+    }
+  ]
+  }
+}
